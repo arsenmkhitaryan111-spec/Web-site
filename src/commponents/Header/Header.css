@@ -1,0 +1,44 @@
+.header-img{
+    width: 250px;
+    height: 27px;
+    color: white;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 25px;
+    width: 100%;
+    
+}
+.header-opacity3{
+    display: flex;
+    gap: 10px;
+}
+.header-icons{
+    display: flex;
+    gap: 5px;
+    transition: 0.2 all;
+    cursor: pointer;
+}
+.header-opacity2{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.header-p{
+    color: white;
+   transition: 0.2s all;
+}
+.header-p:hover{
+    color: rgba(255, 232, 55, 0.656);
+}
+.link{
+    text-decoration: none;
+}
+.header-icons:hover{
+        color: rgba(255, 232, 55, 0.656);
+
+}

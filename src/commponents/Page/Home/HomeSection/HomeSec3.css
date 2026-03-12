@@ -1,0 +1,21 @@
+.hs3{
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 20px 0;}
+.hs3-img{
+    width: 80%;
+
+}
+.hs3-p{
+    color: white;
+    font-size: 40px;
+}
+.hs3-span{
+    color: rgb(255, 196, 0);
+}

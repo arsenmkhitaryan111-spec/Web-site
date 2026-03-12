@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.home-sec1-img{
+    
+    filter: brightness(50%);
+    background-image: url('https://naregzareh.com/wp-content/uploads/2025/08/Nareg-Hero-0.jpg');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home-sec1-p{
+    color:  rgb(229, 160, 10);
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 1.2;
+}
